@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "BANANA Q",
+        "price": 10,
+        "description": "a healthy fried banana in melted brown sugar.",
+        "date added": "2024-02-14"
+       
+    },
+    {
+        "id": 2,
+        "name": "MILK BAR",
+        "price": 10,
+        "description": "a creamy cultured milk.",
+        "date added": "2024-02-14"
+        
+    },
+    {
+        "id": 3,
+        "name": "MINERAL WATER",
+        "price": 20,
+        "description": "The Most Trusted drinking water by moms. Tsusted by doctors.",
+        "date added": "2024-02-14"
+        
+    },
+    {
+        "id": 4,
+        "name": "SOFTDRINKS",
+        "price": 25,
+        "description": " are beverages that consist mainly of carbonated water. The dissolution of carbon dioxide (CO 2) in a liquid, gives rise to effervescence or fizz. Carbon dioxide is only weakly soluble in water; therefore, it separates into a gas when the pressure is released.",
+        "date added": "2024-02-14"
+    },
+    
+    {
+        "id": 5,
+        "name": "YAKULT",
+        "price": 12,
+        "description": "Yakult is derived from “jahurto” which means Yogurt in Esperanto. A fermented milk drink consisting of dried skim milk, glucose, sugar, Yakult essence, and billions of live Lacticaseibacillus paracasei strain Shirota (LcS).",
+        "date added": "2024-02-14"
+        
+    },
+    {
+        "id": 6,
+        "name": "HOT CAKES",
+        "price": 10,
+        "description": "is a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter. It is a type of batter bread.",
+        "date added": "2024-02-14"
+    
+    }
+  ]
+  
