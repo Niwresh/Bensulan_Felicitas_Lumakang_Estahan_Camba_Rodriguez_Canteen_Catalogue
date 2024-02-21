@@ -4,7 +4,8 @@
         "name": "BANANA Q",
         "price": 10,
         "description": "a healthy fried banana in melted brown sugar.",
-        "date added": "2024-02-14"
+        "date added": "2024-02-14",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7SAYlQczayHSmCDe4UPgFiFIaOnuEwG8NpP_9uWzkA&s"
        
     },
     {
@@ -12,7 +13,8 @@
         "name": "MILK BAR",
         "price": 10,
         "description": "a creamy cultured milk.",
-        "date added": "2024-02-14"
+        "date added": "2024-02-14",
+        "image":"https://live.staticflickr.com/3215/2716451968_4b1769fb70_c.jpg"
         
     },
     {
@@ -20,7 +22,8 @@
         "name": "MINERAL WATER",
         "price": 20,
         "description": "The Most Trusted drinking water by moms. Tsusted by doctors.",
-        "date added": "2024-02-14"
+        "date added": "2024-02-14",
+        "image":"https://media.istockphoto.com/id/916352338/photo/pour-carbonated-water-into-a-glass.jpg?s=612x612&w=0&k=20&c=wClaS3esZCun9Ha2cr2jeIix4DNaS0tgrr61x3e9tVY="
         
     },
     {
@@ -28,7 +31,8 @@
         "name": "SOFTDRINKS",
         "price": 25,
         "description": " are beverages that consist mainly of carbonated water. The dissolution of carbon dioxide (CO 2) in a liquid, gives rise to effervescence or fizz. Carbon dioxide is only weakly soluble in water; therefore, it separates into a gas when the pressure is released.",
-        "date added": "2024-02-14"
+        "date added": "2024-02-14",
+        "image":"https://c8.alamy.com/comp/M50RAD/bottles-of-assorted-global-soft-drinks-M50RAD.jpg"
     },
     
     {
@@ -36,7 +40,8 @@
         "name": "YAKULT",
         "price": 12,
         "description": "Yakult is derived from “jahurto” which means Yogurt in Esperanto. A fermented milk drink consisting of dried skim milk, glucose, sugar, Yakult essence, and billions of live Lacticaseibacillus paracasei strain Shirota (LcS).",
-        "date added": "2024-02-14"
+        "date added": "2024-02-14",
+        "image":"https://res.cloudinary.com/studiodock/images/f_webp,q_100/v1655476616/uploads/UK/Y-O-P-L/Y-O-P-L.png?_i=AA"
         
     },
     {
@@ -44,7 +49,8 @@
         "name": "HOT CAKES",
         "price": 10,
         "description": "is a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter. It is a type of batter bread.",
-        "date added": "2024-02-14"
+        "date added": "2024-02-14",
+        "image":"https://media.istockphoto.com/id/497810664/photo/homemade-pumpkin-pancakes-with-butter.jpg?s=612x612&w=0&k=20&c=FQ6SRPTWJqTnt8_CAk4lbHRj2makD3Ks3JbEZwC_JBg="
     
     }
   ]
